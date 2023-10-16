@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a901106d85952d4994c10414545deb1, type: 3}
+  m_Name: Foot Step Audio Data
+  m_EditorClassIdentifier: 
+  footStepAudios:
+  - tag: Concrete
+    audioClips:
+    - {fileID: 8300000, guid: f374e4bb0a72e1e4998b7c00e375c793, type: 3}
+    - {fileID: 8300000, guid: cfd281a9e64c1264b9f2b42fb9096a9e, type: 3}
+    - {fileID: 8300000, guid: 4bfe0f71ce2f2aa459fe0c0e9640762c, type: 3}
+    - {fileID: 8300000, guid: 03da0528f7ce83849b2b517a14f35226, type: 3}
+    - {fileID: 8300000, guid: 0e3bc1a5cab232541a630796f716956a, type: 3}
+    - {fileID: 8300000, guid: 2e100a08b43f225439751a5649eb08c6, type: 3}
+    - {fileID: 8300000, guid: a2f06c829e62c9d49b6dc43e02376f2b, type: 3}
+    - {fileID: 8300000, guid: 261aaa6d499b36540b86ff9e9ca9d79d, type: 3}
+    - {fileID: 8300000, guid: be00c245d1162564380e0441ab3367ba, type: 3}
+    - {fileID: 8300000, guid: b632dbfd31dbbe1479f67126392d2221, type: 3}
+    - {fileID: 8300000, guid: 77b0958831ad0c449bf6166b83729680, type: 3}
+    - {fileID: 8300000, guid: 083f3c2f1983dd8419a9336eef471567, type: 3}
+    delay: 0.5
